@@ -7,6 +7,8 @@
 </p>
 
 <p align="center">
+  <a href="https://puspitanandi.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-6a0dad?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/puspita-nandi-8383ba370"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:puspita.official08@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/puspitapuja19"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=puspitapuja19&label=Profile%20Views&color=6a0dad&style=for-the-badge" />
@@ -24,6 +26,7 @@ I build full-stack web apps with **React, FastAPI and Python**, with a focus on 
 - 🌱 Currently improving my full-stack and REST API skills
 - 🚀 Recent work: **Expense Tracker** and **ScamShield**
 - 🤝 Open to collaborations and open-source contributions
+- 💻 Visit my [Portfolio](https://puspitanandi.netlify.app/) for more about me
 - 📫 Reach me at: **puspita.official08@gmail.com**
 
 ---
@@ -36,11 +39,12 @@ I build full-stack web apps with **React, FastAPI and Python**, with a focus on 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub at a Glance
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=puspitapuja19&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puspitapuja19&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/puspitapuja19?style=for-the-badge&logo=github&color=6a0dad" />
+  <img src="https://img.shields.io/github/stars/puspitapuja19/Expense-tracker?style=for-the-badge&logo=github&color=c026d3" />
+  <img src="https://img.shields.io/github/last-commit/puspitapuja19/Expense-tracker?style=for-the-badge&color=6a0dad" />
 </p>
 
 ---
