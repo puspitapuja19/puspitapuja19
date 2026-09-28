@@ -16,9 +16,7 @@
 
 ---
 
-## 👋 Hi, I'm Puspita Nandi!
-
-*Developer / Programmer / Problem Solver*
+*Developer / Programmer / Problem Solver/ Open-source Contributor*
 
 I build full-stack web apps with **React, FastAPI and Python**, with a focus on clean structure, secure authentication and useful data insights.
 
