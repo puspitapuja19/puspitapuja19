@@ -24,7 +24,7 @@ I build full-stack web apps with **React, FastAPI and Python**, with a focus on 
 - 🌱 Currently improving my full-stack and REST API skills
 - 🚀 Recent work: **Expense Tracker** and **ScamShield**
 - 🤝 Open to collaborations and open-source contributions
-- 💻 Visit my [Portfolio](https://puspitanandi.netlify.app/) for more about me
+- 💻 Visit my [Portfolio](https://puspitapuja19.netlify.app/) for more about me
 - 📫 Reach me at: **puspita.official08@gmail.com**
 
 ---
